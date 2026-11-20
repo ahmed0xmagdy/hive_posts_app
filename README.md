@@ -60,7 +60,7 @@ Make sure the following tools are installed:
 **1. Clone the repository**
 
 ```bash
-Download zip file from https://github.com/ahmed0xmagdy/hive_posts_app.git then unzip it
+Download zip file from https://github.com/ahmed0xmagdy/hive_posts_app/archive/refs/heads/main.zip then unzip it
 ```
 
 **2. Navigate to the project directory**
